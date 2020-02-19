@@ -1,0 +1,5 @@
+$ps aux  | grep postgre
+
+$sudo -i -u postgres
+
+$psql                      pour se connecter a l'invite de commande de psql  en mode root 
